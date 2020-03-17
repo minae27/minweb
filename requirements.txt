@@ -1,4 +1,1 @@
 django==2.1.7
-psycopg2-binary==2.8.4
-pytz==2019.3
-whitenoise==4.1
