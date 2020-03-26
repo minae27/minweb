@@ -1,8 +1,5 @@
 Django==2.1.2
 psycopg2-binary==2.8.4
 pytz==2018.5
-<<<<<<< HEAD
 whitenoise==4.1
-=======
-whitenoise==4.1
->>>>>>> 419db95386d0c944be2f2a881ee5be50bf000208
+
