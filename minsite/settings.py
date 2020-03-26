@@ -82,7 +82,10 @@ DATABASES = {
         'PASSWORD' : 'Pavwhalsdo1*',
         'HOST' : 'localhost',
         'PORT' : '5432',
-
+#        'NAME': os.environ['DBNAME'],
+#        'HOST': os.environ['DBHOST'],
+#        'USER': os.environ['DBUSER'],
+#        'PASSWORD': os.environ['DBPASS'],
     }
 }
 
